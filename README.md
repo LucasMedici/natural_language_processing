@@ -16,9 +16,9 @@ Para rodar este projeto, siga os passos abaixo:
 
 3. **Ative o ambiente virtual**:
 
-        ```bash
+   ```bash
         venv\Scripts\activate
-        ```
+   ```
 4. **Instale as dependências**: Instale as dependências do projeto a partir do arquivo `requirements.txt`.
 
     ```bash
